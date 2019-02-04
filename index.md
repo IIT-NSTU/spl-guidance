@@ -1,6 +1,0 @@
-# Notice for SPL-I, Y-2 T-2, 2019
-
-Next Presentation is on <b>Web Feb 27, 2019 @ 10AM</b>!
-
-# Presentation Name: Midterm Presentation
-
