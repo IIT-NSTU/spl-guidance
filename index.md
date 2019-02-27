@@ -3,7 +3,5 @@
 Next Presentation is on <b>Wed Mar 06, 2019 @ 10AM</b>!
 Presentation Name: Midterm Presentation<br/>
 
-</pre>  
-<a href="https://iit-nstu.github.io/">IIT, NSTU</a>
-</body>
-</html>
+
+[IIT, NSTU](https://iit-nstu.github.io/)
