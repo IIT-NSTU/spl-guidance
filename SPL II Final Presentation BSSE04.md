@@ -1,11 +1,13 @@
 # SPL II Final Presentation of BSSE 04
 - Presentation Duration: Delivery (10 mins) + QA (10 mins)
 - Presentation Date: Thu Dec 05 2024
+- Presentation Time: 11 AM
 # Project Submission
 - Create a repo under https://github.com/IIT-NSTU 
 - Last commit before Thu Dec 05 2024 09:00:00 GMT+0600 (Bangladesh Standard Time) will be accepted as submission
 - Put all the necessary files including SRS file
-- Upload the presentation file 
+- Upload the presentation file
+- Presentation File will not include names students or supervisor
 - Create  a README.md file
 	- Add description about the project
 	- Add how to configure  and run the project
